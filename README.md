@@ -2,9 +2,6 @@
 Generate a profile banner for your username with default settings:
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=KrunalPriyadarshi"></p>
 
-Simply Add ```<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour"></p>``` to your readme. 
-<br>
-
 ### Hi there 👋
 
 
