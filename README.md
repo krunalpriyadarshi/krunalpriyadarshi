@@ -19,26 +19,13 @@ Be fearless 🩶 </h3>
 [![Check My Website](https://img.shields.io/badge/Check%20My%20Website-Visit-blue?style=for-the-badge&logo=github)](https://krunalpriyadarshi.github.io/kpriyadarshi.ca/)
 
 
+- 🌱 I’m currently learning **Web Development**
 
-<div>
-	<p>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" width="25" align="center"/>
-&nbsp Join the Vibe 🎶
-  </p>
-</div>
-<div align="left">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hgv3hncqa5p4qme3hi7ll7nyeu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/>
-</a>
-</div>
+- 👨‍💻 All of my projects are available at my [Personal Website](https://krunalpriyadarshi.github.io/kpriyadarshi.ca/)
 
-- 🌱 I’m currently learning **C++ | HTML | Python | C#**
+- 💬 Ask me ANYTHING. 
 
-- 👨‍💻 All of my projects are available at my [Personal Website](https://kunal-shah.vercel.app)
-
-- 💬 Ask me about **C++ , HTML**
-
-- 📫 How to reach me -[ Telegram](https://t.me/kunalshah017)
+- 📫 How to reach me -[Linkedin](https://www.linkedin.com/in/krunal-priyadarshi-8b3313192/)
 
 <hr>
 
