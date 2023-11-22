@@ -16,10 +16,8 @@ Be fearless 🩶 </h3>
 
 <!-- TODO: make count me API.>-->
 
+[![Check My Website](https://img.shields.io/badge/Check%20My%20Website-Visit-blue?style=for-the-badge&logo=github)](https://krunalpriyadarshi.github.io/kpriyadarshi.ca/)
 
-<a href="https://kunal-shah.vercel.app/">
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Sry%21%20Offline&label=My%20Website&up_color=green&up_message=UP%20%26%20Running&url=https%3A%2F%2Fkunal-shah.vercel.app%2F">
-</a>
 
 
 <div>
