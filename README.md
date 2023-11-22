@@ -11,8 +11,6 @@ Be fearless 🩶 </h3>
 
 - 👨‍💻 All of my projects are available at my [Personal Website](https://krunalpriyadarshi.github.io/kpriyadarshi.ca/)
 
-- 💬 Ask me ANYTHING. 
-
 - 📫 Reach me -[Linkedin](https://www.linkedin.com/in/krunal-priyadarshi-8b3313192/)
 <hr>
 
