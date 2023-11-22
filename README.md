@@ -37,7 +37,7 @@ Be fearless 🩶 </h3>
 
 <h3 align="left">📊 Stats :</h3>
 # Learn to use react API to show stats!
-<div display="hidden">
+<div display="none">
 <p align="center">
 <a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
 <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api?username=kunalshah017&show_icons=true&theme=radical&hide_border=true" />
