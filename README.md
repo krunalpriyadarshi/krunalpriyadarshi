@@ -7,7 +7,7 @@ Be fearless 🩶 </h3>
 
 <!--<img align="right" alt="Coding" height="300" margin-right="20px" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">-->
 
-<p align="center>
+<p text-align="center>
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at my [Personal Website](https://krunalpriyadarshi.github.io/kpriyadarshi.ca/)
