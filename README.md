@@ -5,7 +5,7 @@
 <h3 align="center">Be you 🤍
 Be fearless 🩶 </h3>
 
-<img align="right" alt="Coding" height="300" margin-right="20px" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">
+<!--<img align="right" alt="Coding" height="300" margin-right="20px" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">-->
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -38,55 +38,6 @@ Be fearless 🩶 </h3>
 <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshah017&theme=radical&hide_border=true" />
 <hr>
 
-
-<img src="https://user-images.githubusercontent.com/95049390/235308822-4d55a35d-87f5-41d2-b9b9-94bd2d8d63ef.gif"  align="right" width="350"/>
-
-<h3 align="left">🗓 Weekly Coding Stats :</h3>
-
-
-
-<!--END_SECTION:waka-->
-</p>
-
-<!--<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kunalshah017&theme=radical&hide_border=true" />-->
-<br>
-<br>
-<hr>
-<h3 align="left">🐍 Contributions :</h3>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/output/snake.svg" alt="Snake animation" width="900" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-## new Krunal is here :)
-
-
-
-
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
-<h1 align="center">I'm Yash Srivastav👨‍🎤</h1>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
-  <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
-   <img src="https://img.icons8.com/color/1x/c-sharp-logo.png" alt="C#" width="50" height="50"/>
-  <a href="https://angular.io/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/angular-512.png" alt="Angular" width="50" height="50"/> </a><a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="Node JS" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="MongoDB" width="50" height="50"/> </a> 
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" alt="C#" width="50" height="50"/>
-  <img src="https://img.icons8.com/fluency/256/visual-basic.png" alt="Visual Basics" width="50" height="50"/>  
-  <img src="https://www.asphostcentral.com/Images/logo_aspmvc345.png" alt="MVC" width="70" height="50"/>
-  <img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/react%20js-1000x1000.jpg" alt="ReactJs" width="50" height="50"/>
-  
   
  
   
