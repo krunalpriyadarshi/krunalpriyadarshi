@@ -11,7 +11,7 @@
 <h3 align="center">Be you 🤍
 Be fearless 🩶 </h3>
 
-<img align="right" alt="Coding" height="400" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">
+<img align="right" alt="Coding" height="300" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">
 
 
 <!-- TODO: make count me API.>-->
