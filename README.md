@@ -11,13 +11,13 @@
 <h3 align="center">Be you 🤍
 Be fearless 🩶 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/1095993259342431304/">
+<img align="right" alt="Coding" width="400" src="https://github.com/krunalpriyadarshi/krunalpriyadarshi/blob/main/Assets/Gifs/Mason%20London.gif">
 
 
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{kunalshah017}/count.svg" alt="KunalShah :: Visitor's Count" /></p>
+<!-- TODO: make count me API.>-->
 
-<!--<a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>-->
+<a href="https://github.com/kunalshah017"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshah017&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshah017" /> </p></a>
+
 <a href="https://kunal-shah.vercel.app/">
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Sry%21%20Offline&label=My%20Website&up_color=green&up_message=UP%20%26%20Running&url=https%3A%2F%2Fkunal-shah.vercel.app%2F">
 </a>
