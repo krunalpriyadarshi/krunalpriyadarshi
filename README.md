@@ -19,37 +19,11 @@ Be fearless 🩶 </h3>
 
 - 💬 Ask me ANYTHING. 
 
-- 📫 How to reach me -[Linkedin](https://www.linkedin.com/in/krunal-priyadarshi-8b3313192/)
-
-<hr>
-
-<br>
-<br>
-<hr>
-
-<h3 align="left">🌐 Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal_shah_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal shah" height="30" width="40" /></a>
-<a href="https://instagram.com/kunal._.shah._.017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal._.shah._.017" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31hgv3hncqa5p4qme3hi7ll7nyeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/spotify.svg" alt="KuNaL" height="30" width="40" /></a>
-<a href="https://twitch.tv/kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitch.svg" alt="KuNaL" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kunalshah017" target="blank"><img align="center" src="https://raw.githubusercontent.com/kunalshah017/kunalshah017/main/src/images/icons/brand-icon.png" alt="KuNaL" height="30" width+"40"/></a>
-<a href="https://www.snapchat.com/add/kunalshah_017?share_id=5McFMMDkZDg&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/snapchat.svg" alt="KuNaL" height="30" width="40"/></a>
-<br><br>
-&nbsp<a href="https://dev.to/kunalshah017"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/></a>
-<a href="https://discord.com/users/892674083601416192"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="35" width="40"/></a>
-
-</p>
-
+- 📫 Reach me -[Linkedin](https://www.linkedin.com/in/krunal-priyadarshi-8b3313192/)
 <hr>
 
 <h3 align="left">🛠 My Tech Stack :</h3>
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="30" height="30" /> </a>
 &nbsp <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="30" height="30" /> </a>
