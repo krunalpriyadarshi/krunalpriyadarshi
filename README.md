@@ -9,7 +9,7 @@ Be fearless 🩶 </h3>
 
 <div align="center">
   <p>🌱 I’m currently learning Web Development</p>
-  <p>👨‍💻 All of my projects are available at my <a href="https://krunalpriyadarshi.github.io/kpriyadarshi.ca/" target="_blank" rel="noreferrer">Personal Website</a></p>
+  <p>👨‍💻 All of my projects are available at my <a href="https://kpriyadarshi-ca.vercel.app/" target="_blank" rel="noreferrer">Personal Website</a></p>
 </div>
 <hr>
 
