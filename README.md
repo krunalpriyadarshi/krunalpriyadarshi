@@ -18,16 +18,13 @@ Be fearless 🩶 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aaaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://instagram.com/aaaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aaaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aaaaaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krunalpriyadarshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/24_krunal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEWF45414aAJ9yxye3PpKQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/krunalpriyadars1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KnowKruZ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
 </p>
 <hr>
-
-<h3 align="left">📊 Stats :</h3>
-# Learn to use react API to show stats!
 <!--
 <p align="center">
 <a href="https://github.com/kunalshah017/github-readme-stats"><img align="" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshah017&layout=compact&theme=radical&hide_border=true" /></a>  
@@ -38,4 +35,4 @@ Be fearless 🩶 </h3>
 <hr>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/-----------"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="-----------" /></a>
+<p><a href="buymeacoffee.com/kruz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="-----------" /></a>
